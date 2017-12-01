@@ -1,0 +1,393 @@
+2017-11-30 13:41:52: Running apriori with support 15.0% and confidence 85.0%
+2017-11-30 13:41:52: Executing dynamic parallel version on 4 processors
+2017-11-30 13:42:07: Found 6 levels.
+2017-11-30 13:42:07: Level 1  - 39 frequent itemsets
+2017-11-30 13:42:07: Level 2  - 346 frequent itemsets
+2017-11-30 13:42:07: Level 3  - 947 frequent itemsets
+2017-11-30 13:42:07: Level 4  - 767 frequent itemsets
+2017-11-30 13:42:07: Level 5  - 153 frequent itemsets
+2017-11-30 13:42:07: Level 6  - 2 frequent itemsets
+2017-11-30 13:42:07: Found 370 rules.
+2017-11-30 13:42:07: ['canned', 'frozen', 'pet']->['bread'],support=0.173,confidence=0.856,lift=1.190
+2017-11-30 13:42:07: ['baking', 'beef', 'fruit']->['bread'],support=0.156,confidence=0.868,lift=1.206
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'party', 'vegetables']->['bread'],support=0.162,confidence=0.877,lift=1.218
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'tissues-paper']->['bread'],support=0.199,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['frozen', 'fruit', 'vegetables']->['bread'],support=0.269,confidence=0.856,lift=1.190
+2017-11-30 13:42:07: ['fruit', 'party', 'tissues-paper']->['bread'],support=0.173,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['jams-spreads', 'milk-cream']->['bread'],support=0.162,confidence=0.859,lift=1.193
+2017-11-30 13:42:07: ['frozen', 'margarine', 'pet']->['bread'],support=0.152,confidence=0.856,lift=1.190
+2017-11-30 13:42:07: ['dairy', 'frozen', 'fruit']->['bread'],support=0.154,confidence=0.855,lift=1.188
+2017-11-30 13:42:07: ['canned', 'frozen', 'fruit']->['bread'],support=0.233,confidence=0.871,lift=1.210
+2017-11-30 13:42:07: ['fruit', 'party', 'pet']->['bread'],support=0.160,confidence=0.863,lift=1.199
+2017-11-30 13:42:07: ['baking', 'fruit', 'margarine', 'vegetables']->['bread'],support=0.176,confidence=0.886,lift=1.231
+2017-11-30 13:42:07: ['baking', 'biscuits', 'canned', 'frozen']->['bread'],support=0.178,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['baking', 'fruit', 'margarine', 'milk-cream']->['bread'],support=0.160,confidence=0.893,lift=1.240
+2017-11-30 13:42:07: ['fruit', 'margarine', 'pet']->['bread'],support=0.156,confidence=0.882,lift=1.225
+2017-11-30 13:42:07: ['baking', 'biscuits', 'frozen', 'party']->['bread'],support=0.162,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['biscuits', 'tissues-paper', 'vegetables']->['bread'],support=0.195,confidence=0.867,lift=1.205
+2017-11-30 13:42:07: ['baking', 'fruit', 'pet', 'vegetables']->['bread'],support=0.152,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['biscuits', 'cheese', 'fruit']->['bread'],support=0.172,confidence=0.880,lift=1.223
+2017-11-30 13:42:07: ['canned', 'cheese', 'fruit']->['bread'],support=0.169,confidence=0.879,lift=1.222
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'milk-cream', 'vegetables']->['bread'],support=0.177,confidence=0.895,lift=1.244
+2017-11-30 13:42:07: ['fruit', 'juice-sat-cord-ms', 'margarine']->['bread'],support=0.177,confidence=0.861,lift=1.196
+2017-11-30 13:42:07: ['baking', 'canned', 'fruit', 'tissues-paper']->['bread'],support=0.156,confidence=0.883,lift=1.228
+2017-11-30 13:42:07: ['canned', 'party', 'vegetables']->['bread'],support=0.183,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'milk-cream', 'vegetables']->['bread'],support=0.193,confidence=0.879,lift=1.222
+2017-11-30 13:42:07: ['fruit', 'juice-sat-cord-ms', 'milk-cream', 'vegetables']->['bread'],support=0.169,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'tissues-paper']->['bread'],support=0.199,confidence=0.858,lift=1.193
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'margarine', 'milk-cream']->['bread'],support=0.151,confidence=0.895,lift=1.243
+2017-11-30 13:42:07: ['milk-cream', 'party', 'tissues-paper']->['bread'],support=0.163,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['frozen', 'fruit', 'margarine', 'vegetables']->['bread'],support=0.163,confidence=0.879,lift=1.221
+2017-11-30 13:42:07: ['pet', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.155,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['beef', 'canned', 'frozen']->['bread'],support=0.152,confidence=0.864,lift=1.200
+2017-11-30 13:42:07: ['canned', 'margarine', 'tissues-paper']->['bread'],support=0.172,confidence=0.856,lift=1.189
+2017-11-30 13:42:07: ['biscuits', 'breakfast', 'vegetables']->['bread'],support=0.166,confidence=0.874,lift=1.215
+2017-11-30 13:42:07: ['baking', 'canned', 'tissues-paper']->['bread'],support=0.203,confidence=0.855,lift=1.188
+2017-11-30 13:42:07: ['baking', 'biscuits', 'fruit', 'party']->['bread'],support=0.156,confidence=0.885,lift=1.230
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'sauces-gravy-pkle']->['bread'],support=0.186,confidence=0.851,lift=1.182
+2017-11-30 13:42:07: ['biscuits', 'juice-sat-cord-ms', 'milk-cream']->['bread'],support=0.195,confidence=0.853,lift=1.186
+2017-11-30 13:42:07: ['frozen', 'fruit', 'juice-sat-cord-ms', 'vegetables']->['bread'],support=0.171,confidence=0.859,lift=1.193
+2017-11-30 13:42:07: ['baking', 'milk-cream', 'tissues-paper']->['bread'],support=0.206,confidence=0.861,lift=1.197
+2017-11-30 13:42:07: ['fruit', 'margarine', 'party']->['bread'],support=0.164,confidence=0.867,lift=1.205
+2017-11-30 13:42:07: ['baking', 'biscuits', 'frozen', 'milk-cream']->['bread'],support=0.178,confidence=0.884,lift=1.228
+2017-11-30 13:42:07: ['baking', 'biscuits', 'vegetables']->['bread'],support=0.234,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'party']->['bread'],support=0.214,confidence=0.859,lift=1.193
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'tissues-paper', 'vegetables']->['bread'],support=0.163,confidence=0.882,lift=1.225
+2017-11-30 13:42:07: ['canned', 'fruit', 'small']->['bread'],support=0.152,confidence=0.877,lift=1.218
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'vegetables']->['bread'],support=0.263,confidence=0.866,lift=1.204
+2017-11-30 13:42:07: ['juice-sat-cord-ms', 'milk-cream', 'pet']->['bread'],support=0.151,confidence=0.851,lift=1.182
+2017-11-30 13:42:07: ['cheese', 'fruit', 'vegetables']->['bread'],support=0.194,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['canned', 'fruit', 'margarine']->['bread'],support=0.198,confidence=0.878,lift=1.219
+2017-11-30 13:42:07: ['juice-sat-cord-ms', 'milk-cream', 'tissues-paper']->['bread'],support=0.172,confidence=0.861,lift=1.196
+2017-11-30 13:42:07: ['baking', 'canned', 'frozen', 'milk-cream']->['bread'],support=0.167,confidence=0.866,lift=1.203
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'fruit']->['bread'],support=0.183,confidence=0.903,lift=1.254
+2017-11-30 13:42:07: ['biscuits', 'breakfast', 'fruit']->['bread'],support=0.170,confidence=0.867,lift=1.205
+2017-11-30 13:42:07: ['frozen', 'milk-cream', 'vegetables']->['bread'],support=0.244,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['baking', 'frozen', 'fruit']->['bread'],support=0.238,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['beef', 'frozen', 'fruit']->['bread'],support=0.157,confidence=0.861,lift=1.197
+2017-11-30 13:42:07: ['canned', 'pet', 'tissues-paper']->['bread'],support=0.157,confidence=0.854,lift=1.187
+2017-11-30 13:42:07: ['baking', 'frozen', 'fruit', 'margarine']->['bread'],support=0.156,confidence=0.882,lift=1.226
+2017-11-30 13:42:07: ['baking', 'canned', 'milk-cream']->['bread'],support=0.228,confidence=0.859,lift=1.193
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'pet', 'vegetables']->['bread'],support=0.156,confidence=0.869,lift=1.207
+2017-11-30 13:42:07: ['biscuits', 'breakfast', 'milk-cream']->['bread'],support=0.158,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'tissues-paper']->['bread'],support=0.208,confidence=0.854,lift=1.186
+2017-11-30 13:42:07: ['frozen', 'fruit', 'tissues-paper']->['bread'],support=0.204,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['canned', 'milk-cream', 'sauces-gravy-pkle']->['bread'],support=0.186,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['department137', 'frozen', 'fruit']->['bread'],support=0.161,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['baking', 'canned', 'milk-cream', 'vegetables']->['bread'],support=0.174,confidence=0.871,lift=1.211
+2017-11-30 13:42:07: ['fruit', 'margarine', 'tissues-paper']->['bread'],support=0.176,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['baking', 'frozen', 'party', 'vegetables']->['bread'],support=0.151,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['baking', 'milk-cream', 'pet']->['bread'],support=0.183,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'fruit', 'vegetables']->['bread'],support=0.152,confidence=0.918,lift=1.275
+2017-11-30 13:42:07: ['beef', 'bread', 'fruit']->['vegetables'],support=0.183,confidence=0.851,lift=1.329
+2017-11-30 13:42:07: ['cheese', 'fruit', 'margarine']->['bread'],support=0.156,confidence=0.877,lift=1.219
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.208,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['canned', 'frozen', 'vegetables']->['bread'],support=0.234,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['biscuits', 'milk-cream', 'tissues-paper']->['bread'],support=0.188,confidence=0.873,lift=1.212
+2017-11-30 13:42:07: ['margarine', 'party', 'vegetables']->['bread'],support=0.163,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['margarine', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.172,confidence=0.859,lift=1.193
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'margarine']->['bread'],support=0.204,confidence=0.875,lift=1.215
+2017-11-30 13:42:07: ['biscuits', 'canned', 'fruit', 'milk-cream']->['bread'],support=0.172,confidence=0.912,lift=1.267
+2017-11-30 13:42:07: ['baking', 'fruit', 'party', 'vegetables']->['bread'],support=0.162,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['canned', 'fruit', 'party']->['bread'],support=0.187,confidence=0.877,lift=1.218
+2017-11-30 13:42:07: ['baking', 'biscuits', 'canned']->['bread'],support=0.223,confidence=0.851,lift=1.182
+2017-11-30 13:42:07: ['milk-cream', 'pet', 'tissues-paper']->['bread'],support=0.158,confidence=0.865,lift=1.202
+2017-11-30 13:42:07: ['canned', 'fruit', 'sauces-gravy-pkle']->['bread'],support=0.191,confidence=0.863,lift=1.199
+2017-11-30 13:42:07: ['biscuits', 'canned', 'milk-cream']->['bread'],support=0.217,confidence=0.884,lift=1.228
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'vegetables']->['bread'],support=0.242,confidence=0.868,lift=1.206
+2017-11-30 13:42:07: ['canned', 'fruit', 'tissues-paper', 'vegetables']->['bread'],support=0.164,confidence=0.890,lift=1.237
+2017-11-30 13:42:07: ['canned', 'frozen', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.151,confidence=0.868,lift=1.207
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'small']->['bread'],support=0.166,confidence=0.869,lift=1.208
+2017-11-30 13:42:07: ['baking', 'canned', 'frozen', 'vegetables']->['bread'],support=0.177,confidence=0.861,lift=1.196
+2017-11-30 13:42:07: ['baking', 'frozen', 'fruit', 'tissues-paper']->['bread'],support=0.155,confidence=0.879,lift=1.221
+2017-11-30 13:42:07: ['frozen', 'fruit', 'milk-cream', 'tissues-paper']->['bread'],support=0.153,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['biscuits', 'margarine', 'tissues-paper']->['bread'],support=0.174,confidence=0.852,lift=1.183
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'juice-sat-cord-ms', 'party']->['bread'],support=0.152,confidence=0.855,lift=1.188
+2017-11-30 13:42:07: ['baking', 'biscuits', 'tissues-paper', 'vegetables']->['bread'],support=0.153,confidence=0.878,lift=1.220
+2017-11-30 13:42:07: ['baking', 'milk-cream', 'tissues-paper', 'vegetables']->['bread'],support=0.157,confidence=0.871,lift=1.210
+2017-11-30 13:42:07: ['baking', 'biscuits', 'department137']->['bread'],support=0.151,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['fruit', 'tissues-paper', 'vegetables']->['bread'],support=0.226,confidence=0.853,lift=1.186
+2017-11-30 13:42:07: ['frozen', 'pet', 'tissues-paper']->['bread'],support=0.160,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['canned', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.197,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['beef', 'frozen', 'milk-cream']->['bread'],support=0.157,confidence=0.863,lift=1.199
+2017-11-30 13:42:07: ['fruit', 'juice-sat-cord-ms', 'pet']->['bread'],support=0.158,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'party']->['bread'],support=0.152,confidence=0.866,lift=1.203
+2017-11-30 13:42:07: ['confectionary', 'fruit', 'milk-cream']->['bread'],support=0.153,confidence=0.856,lift=1.190
+2017-11-30 13:42:07: ['frozen', 'party', 'pet']->['bread'],support=0.161,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['cheese', 'margarine', 'vegetables']->['bread'],support=0.158,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['department137', 'fruit', 'milk-cream']->['bread'],support=0.174,confidence=0.871,lift=1.211
+2017-11-30 13:42:07: ['department137', 'frozen', 'milk-cream']->['bread'],support=0.155,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['baking', 'beef', 'vegetables']->['bread'],support=0.168,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'pet']->['bread'],support=0.181,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['baking', 'canned', 'tissues-paper', 'vegetables']->['bread'],support=0.157,confidence=0.883,lift=1.227
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'margarine']->['bread'],support=0.155,confidence=0.866,lift=1.203
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'soft']->['bread'],support=0.158,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['biscuits', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.190,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['beef', 'biscuits', 'vegetables']->['bread'],support=0.155,confidence=0.879,lift=1.221
+2017-11-30 13:42:07: ['canned', 'margarine', 'vegetables']->['bread'],support=0.201,confidence=0.866,lift=1.203
+2017-11-30 13:42:07: ['baking', 'biscuits', 'margarine', 'milk-cream']->['bread'],support=0.153,confidence=0.889,lift=1.235
+2017-11-30 13:42:07: ['baking', 'beef', 'milk-cream']->['bread'],support=0.154,confidence=0.867,lift=1.205
+2017-11-30 13:42:07: ['frozen', 'fruit', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.164,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['frozen', 'pet', 'vegetables']->['bread'],support=0.189,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['canned', 'frozen', 'tissues-paper', 'vegetables']->['bread'],support=0.152,confidence=0.885,lift=1.230
+2017-11-30 13:42:07: ['baking', 'frozen', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.155,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['biscuits', 'department137', 'vegetables']->['bread'],support=0.155,confidence=0.867,lift=1.205
+2017-11-30 13:42:07: ['baking', 'frozen', 'margarine', 'milk-cream']->['bread'],support=0.156,confidence=0.878,lift=1.220
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit', 'sauces-gravy-pkle']->['bread'],support=0.151,confidence=0.877,lift=1.219
+2017-11-30 13:42:07: ['baking', 'fruit', 'tissues-paper']->['bread'],support=0.206,confidence=0.855,lift=1.188
+2017-11-30 13:42:07: ['baking', 'biscuits', 'frozen', 'margarine']->['bread'],support=0.164,confidence=0.860,lift=1.194
+2017-11-30 13:42:07: ['biscuits', 'canned', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.151,confidence=0.892,lift=1.239
+2017-11-30 13:42:07: ['fruit', 'party', 'sauces-gravy-pkle']->['bread'],support=0.170,confidence=0.852,lift=1.183
+2017-11-30 13:42:07: ['canned', 'small', 'vegetables']->['bread'],support=0.156,confidence=0.865,lift=1.201
+2017-11-30 13:42:07: ['canned', 'frozen', 'juice-sat-cord-ms', 'vegetables']->['bread'],support=0.153,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['baking', 'biscuits', 'frozen', 'vegetables']->['bread'],support=0.183,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['canned', 'department137', 'fruit']->['bread'],support=0.150,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['baking', 'frozen', 'tissues-paper', 'vegetables']->['bread'],support=0.159,confidence=0.869,lift=1.207
+2017-11-30 13:42:07: ['frozen', 'milk-cream', 'small']->['bread'],support=0.160,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit', 'tissues-paper']->['bread'],support=0.155,confidence=0.885,lift=1.230
+2017-11-30 13:42:07: ['baking', 'margarine', 'milk-cream', 'vegetables']->['bread'],support=0.163,confidence=0.882,lift=1.225
+2017-11-30 13:42:07: ['cheese', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.155,confidence=0.867,lift=1.204
+2017-11-30 13:42:07: ['baking', 'fruit', 'pet']->['bread'],support=0.182,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['biscuits', 'milk-cream', 'pet']->['bread'],support=0.170,confidence=0.863,lift=1.199
+2017-11-30 13:42:07: ['baking', 'fruit', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.161,confidence=0.865,lift=1.201
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit', 'vegetables']->['bread'],support=0.201,confidence=0.894,lift=1.243
+2017-11-30 13:42:07: ['baking', 'biscuits', 'canned', 'milk-cream']->['bread'],support=0.164,confidence=0.888,lift=1.235
+2017-11-30 13:42:07: ['baking', 'biscuits', 'small']->['bread'],support=0.155,confidence=0.865,lift=1.202
+2017-11-30 13:42:07: ['beef', 'fruit', 'milk-cream']->['bread'],support=0.159,confidence=0.873,lift=1.213
+2017-11-30 13:42:07: ['biscuits', 'canned', 'tissues-paper']->['bread'],support=0.190,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['fruit', 'juice-sat-cord-ms', 'party']->['bread'],support=0.192,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.164,confidence=0.886,lift=1.231
+2017-11-30 13:42:07: ['cheese', 'milk-cream', 'vegetables']->['bread'],support=0.176,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['baking', 'canned', 'margarine', 'vegetables']->['bread'],support=0.159,confidence=0.880,lift=1.223
+2017-11-30 13:42:07: ['baking', 'canned', 'fruit']->['bread'],support=0.233,confidence=0.855,lift=1.188
+2017-11-30 13:42:07: ['biscuits', 'canned', 'fruit', 'margarine']->['bread'],support=0.151,confidence=0.897,lift=1.247
+2017-11-30 13:42:07: ['baking', 'biscuits', 'milk-cream', 'vegetables']->['bread'],support=0.172,confidence=0.876,lift=1.217
+2017-11-30 13:42:07: ['baking', 'department137', 'fruit']->['bread'],support=0.159,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'small']->['bread'],support=0.163,confidence=0.866,lift=1.204
+2017-11-30 13:42:07: ['party', 'pet', 'vegetables']->['bread'],support=0.158,confidence=0.864,lift=1.200
+2017-11-30 13:42:07: ['cheese', 'fruit', 'milk-cream']->['bread'],support=0.177,confidence=0.865,lift=1.202
+2017-11-30 13:42:07: ['baking', 'biscuits', 'pet']->['bread'],support=0.171,confidence=0.851,lift=1.182
+2017-11-30 13:42:07: ['baking', 'biscuits', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.153,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit', 'margarine']->['bread'],support=0.156,confidence=0.891,lift=1.237
+2017-11-30 13:42:07: ['baking', 'cheese', 'fruit']->['bread'],support=0.174,confidence=0.861,lift=1.196
+2017-11-30 13:42:07: ['baking', 'canned', 'fruit', 'vegetables']->['bread'],support=0.193,confidence=0.873,lift=1.213
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit', 'party']->['bread'],support=0.167,confidence=0.884,lift=1.229
+2017-11-30 13:42:07: ['biscuits', 'canned', 'fruit', 'vegetables']->['bread'],support=0.190,confidence=0.898,lift=1.248
+2017-11-30 13:42:07: ['baking', 'margarine', 'vegetables']->['bread'],support=0.219,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['canned', 'frozen', 'fruit', 'juice-sat-cord-ms']->['bread'],support=0.153,confidence=0.882,lift=1.226
+2017-11-30 13:42:07: ['baking', 'department137', 'milk-cream']->['bread'],support=0.160,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['biscuits', 'juice-sat-cord-ms', 'vegetables']->['bread'],support=0.199,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['canned', 'frozen', 'small']->['bread'],support=0.156,confidence=0.864,lift=1.200
+2017-11-30 13:42:07: ['frozen', 'fruit', 'milk-cream', 'vegetables']->['bread'],support=0.200,confidence=0.873,lift=1.213
+2017-11-30 13:42:07: ['baking', 'fruit', 'small']->['vegetables'],support=0.158,confidence=0.855,lift=1.335
+2017-11-30 13:42:07: ['frozen', 'margarine', 'milk-cream']->['bread'],support=0.194,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['baking', 'biscuits', 'frozen', 'tissues-paper']->['bread'],support=0.158,confidence=0.867,lift=1.204
+2017-11-30 13:42:07: ['canned', 'frozen', 'margarine', 'vegetables']->['bread'],support=0.151,confidence=0.875,lift=1.215
+2017-11-30 13:42:07: ['baking', 'party', 'pet']->['bread'],support=0.154,confidence=0.851,lift=1.182
+2017-11-30 13:42:07: ['biscuits', 'milk-cream', 'sauces-gravy-pkle']->['bread'],support=0.178,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['canned', 'fruit', 'margarine', 'vegetables']->['bread'],support=0.164,confidence=0.892,lift=1.240
+2017-11-30 13:42:07: ['milk-cream', 'small', 'vegetables']->['bread'],support=0.170,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['frozen', 'juice-sat-cord-ms', 'milk-cream', 'vegetables']->['bread'],support=0.152,confidence=0.863,lift=1.200
+2017-11-30 13:42:07: ['baking', 'biscuits', 'cheese']->['bread'],support=0.166,confidence=0.853,lift=1.186
+2017-11-30 13:42:07: ['baking', 'cheese', 'vegetables']->['bread'],support=0.180,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['biscuits', 'canned', 'margarine']->['bread'],support=0.193,confidence=0.854,lift=1.186
+2017-11-30 13:42:07: ['cheese', 'tissues-paper', 'vegetables']->['bread'],support=0.152,confidence=0.860,lift=1.194
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'pet']->['bread'],support=0.179,confidence=0.869,lift=1.207
+2017-11-30 13:42:07: ['baking', 'fruit', 'small']->['bread'],support=0.159,confidence=0.864,lift=1.201
+2017-11-30 13:42:07: ['frozen', 'fruit', 'sauces-gravy-pkle']->['bread'],support=0.195,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['frozen', 'fruit', 'pet']->['bread'],support=0.185,confidence=0.866,lift=1.203
+2017-11-30 13:42:07: ['baking', 'fruit', 'margarine']->['bread'],support=0.213,confidence=0.869,lift=1.208
+2017-11-30 13:42:07: ['baking', 'biscuits', 'canned', 'tissues-paper']->['bread'],support=0.151,confidence=0.874,lift=1.214
+2017-11-30 13:42:07: ['frozen', 'fruit', 'small']->['bread'],support=0.164,confidence=0.873,lift=1.212
+2017-11-30 13:42:07: ['beef', 'frozen', 'fruit']->['vegetables'],support=0.155,confidence=0.852,lift=1.331
+2017-11-30 13:42:07: ['frozen', 'fruit', 'party', 'vegetables']->['bread'],support=0.168,confidence=0.880,lift=1.223
+2017-11-30 13:42:07: ['baking', 'biscuits', 'margarine', 'vegetables']->['bread'],support=0.158,confidence=0.879,lift=1.222
+2017-11-30 13:42:07: ['department137', 'milk-cream', 'vegetables']->['bread'],support=0.169,confidence=0.854,lift=1.187
+2017-11-30 13:42:07: ['frozen', 'milk-cream', 'party']->['bread'],support=0.198,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['canned', 'fruit', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.161,confidence=0.881,lift=1.224
+2017-11-30 13:42:07: ['fruit', 'margarine', 'milk-cream']->['bread'],support=0.207,confidence=0.869,lift=1.207
+2017-11-30 13:42:07: ['frozen', 'fruit', 'juice-sat-cord-ms', 'milk-cream']->['bread'],support=0.154,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['biscuits', 'milk-cream', 'vegetables']->['bread'],support=0.232,confidence=0.870,lift=1.208
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.156,confidence=0.878,lift=1.221
+2017-11-30 13:42:07: ['baking', 'biscuits', 'canned', 'margarine']->['bread'],support=0.152,confidence=0.864,lift=1.200
+2017-11-30 13:42:07: ['baking', 'biscuits', 'party', 'vegetables']->['bread'],support=0.153,confidence=0.870,lift=1.209
+2017-11-30 13:42:07: ['baking', 'biscuits', 'fruit', 'margarine']->['bread'],support=0.159,confidence=0.882,lift=1.226
+2017-11-30 13:42:07: ['canned', 'cheese', 'tissues-paper']->['bread'],support=0.150,confidence=0.864,lift=1.201
+2017-11-30 13:42:07: ['baking', 'canned', 'margarine', 'milk-cream']->['bread'],support=0.151,confidence=0.885,lift=1.229
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'pet']->['bread'],support=0.191,confidence=0.864,lift=1.201
+2017-11-30 13:42:07: ['baking', 'canned', 'frozen', 'fruit']->['bread'],support=0.175,confidence=0.877,lift=1.218
+2017-11-30 13:42:07: ['baking', 'small', 'vegetables']->['bread'],support=0.170,confidence=0.855,lift=1.187
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit', 'milk-cream']->['bread'],support=0.182,confidence=0.893,lift=1.241
+2017-11-30 13:42:07: ['frozen', 'milk-cream', 'tissues-paper']->['bread'],support=0.195,confidence=0.863,lift=1.200
+2017-11-30 13:42:07: ['frozen', 'milk-cream', 'tissues-paper', 'vegetables']->['bread'],support=0.152,confidence=0.883,lift=1.227
+2017-11-30 13:42:07: ['baking', 'biscuits', 'fruit', 'tissues-paper']->['bread'],support=0.152,confidence=0.877,lift=1.218
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'milk-cream']->['bread'],support=0.169,confidence=0.895,lift=1.244
+2017-11-30 13:42:07: ['biscuits', 'canned', 'fruit']->['bread'],support=0.233,confidence=0.880,lift=1.223
+2017-11-30 13:42:07: ['beef', 'fruit', 'milk-cream']->['vegetables'],support=0.155,confidence=0.853,lift=1.333
+2017-11-30 13:42:07: ['breakfast', 'canned', 'vegetables']->['bread'],support=0.167,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['frozen', 'fruit', 'milk-cream', 'party']->['bread'],support=0.154,confidence=0.883,lift=1.227
+2017-11-30 13:42:07: ['baking', 'biscuits', 'frozen', 'fruit']->['bread'],support=0.185,confidence=0.882,lift=1.226
+2017-11-30 13:42:07: ['beef', 'frozen', 'vegetables']->['bread'],support=0.171,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['beef', 'canned', 'fruit']->['bread'],support=0.151,confidence=0.888,lift=1.234
+2017-11-30 13:42:07: ['biscuits', 'cheese', 'frozen']->['bread'],support=0.171,confidence=0.863,lift=1.199
+2017-11-30 13:42:07: ['baking', 'frozen', 'margarine', 'vegetables']->['bread'],support=0.161,confidence=0.864,lift=1.200
+2017-11-30 13:42:07: ['baking', 'fruit', 'milk-cream']->['bread'],support=0.252,confidence=0.851,lift=1.182
+2017-11-30 13:42:07: ['baking', 'biscuits', 'milk-cream']->['bread'],support=0.229,confidence=0.861,lift=1.197
+2017-11-30 13:42:07: ['canned', 'fruit', 'vegetables']->['bread'],support=0.259,confidence=0.854,lift=1.187
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'vegetables']->['bread'],support=0.180,confidence=0.888,lift=1.234
+2017-11-30 13:42:07: ['biscuits', 'cheese', 'party']->['bread'],support=0.152,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['baking', 'beef', 'fruit']->['vegetables'],support=0.156,confidence=0.866,lift=1.354
+2017-11-30 13:42:07: ['biscuits', 'party', 'vegetables']->['bread'],support=0.206,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['cheese', 'frozen', 'vegetables']->['bread'],support=0.169,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['biscuits', 'canned', 'party']->['bread'],support=0.189,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['margarine', 'milk-cream', 'party']->['bread'],support=0.156,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['biscuits', 'canned', 'pet']->['bread'],support=0.167,confidence=0.862,lift=1.197
+2017-11-30 13:42:07: ['canned', 'frozen', 'fruit', 'milk-cream']->['bread'],support=0.174,confidence=0.892,lift=1.240
+2017-11-30 13:42:07: ['baking', 'frozen', 'fruit', 'vegetables']->['bread'],support=0.197,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['canned', 'party', 'tissues-paper']->['bread'],support=0.162,confidence=0.856,lift=1.189
+2017-11-30 13:42:07: ['canned', 'cheese', 'milk-cream']->['bread'],support=0.161,confidence=0.871,lift=1.210
+2017-11-30 13:42:07: ['biscuits', 'milk-cream', 'party']->['bread'],support=0.201,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['baking', 'fruit', 'party']->['bread'],support=0.200,confidence=0.864,lift=1.200
+2017-11-30 13:42:07: ['baking', 'milk-cream', 'party']->['bread'],support=0.194,confidence=0.855,lift=1.187
+2017-11-30 13:42:07: ['baking', 'juice-sat-cord-ms', 'milk-cream', 'vegetables']->['bread'],support=0.151,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['biscuits', 'margarine', 'party']->['bread'],support=0.171,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['cheese', 'fruit', 'tissues-paper']->['bread'],support=0.152,confidence=0.865,lift=1.201
+2017-11-30 13:42:07: ['baking', 'biscuits', 'canned', 'fruit']->['bread'],support=0.174,confidence=0.885,lift=1.229
+2017-11-30 13:42:07: ['margarine', 'pet', 'vegetables']->['bread'],support=0.161,confidence=0.865,lift=1.202
+2017-11-30 13:42:07: ['canned', 'fruit', 'juice-sat-cord-ms', 'vegetables']->['bread'],support=0.160,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'fruit']->['bread'],support=0.248,confidence=0.873,lift=1.214
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'milk-cream', 'party']->['bread'],support=0.154,confidence=0.876,lift=1.217
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'party', 'vegetables']->['bread'],support=0.173,confidence=0.883,lift=1.227
+2017-11-30 13:42:07: ['canned', 'frozen', 'tissues-paper']->['bread'],support=0.192,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['canned', 'fruit', 'pet']->['bread'],support=0.176,confidence=0.876,lift=1.217
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'juice-sat-cord-ms']->['bread'],support=0.156,confidence=0.862,lift=1.197
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'margarine', 'milk-cream']->['bread'],support=0.150,confidence=0.886,lift=1.232
+2017-11-30 13:42:07: ['baking', 'fruit', 'juice-sat-cord-ms', 'milk-cream']->['bread'],support=0.151,confidence=0.864,lift=1.201
+2017-11-30 13:42:07: ['canned', 'tissues-paper', 'vegetables']->['bread'],support=0.198,confidence=0.869,lift=1.208
+2017-11-30 13:42:07: ['baking', 'milk-cream', 'small']->['bread'],support=0.163,confidence=0.866,lift=1.203
+2017-11-30 13:42:07: ['canned', 'cheese', 'vegetables']->['bread'],support=0.173,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['baking', 'margarine', 'pet']->['bread'],support=0.162,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['biscuits', 'department137', 'milk-cream']->['bread'],support=0.153,confidence=0.871,lift=1.210
+2017-11-30 13:42:07: ['baking', 'frozen', 'milk-cream', 'vegetables']->['bread'],support=0.180,confidence=0.868,lift=1.206
+2017-11-30 13:42:07: ['biscuits', 'small', 'vegetables']->['bread'],support=0.161,confidence=0.867,lift=1.205
+2017-11-30 13:42:07: ['canned', 'fruit', 'milk-cream']->['bread'],support=0.237,confidence=0.870,lift=1.209
+2017-11-30 13:42:07: ['cheese', 'fruit', 'party']->['bread'],support=0.153,confidence=0.882,lift=1.225
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'milk-cream']->['bread'],support=0.235,confidence=0.868,lift=1.206
+2017-11-30 13:42:07: ['frozen', 'fruit', 'pet', 'vegetables']->['bread'],support=0.154,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['biscuits', 'milk-cream', 'soft']->['bread'],support=0.156,confidence=0.854,lift=1.187
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'margarine']->['bread'],support=0.206,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['beef', 'milk-cream', 'vegetables']->['bread'],support=0.170,confidence=0.860,lift=1.195
+2017-11-30 13:42:07: ['frozen', 'fruit', 'tissues-paper', 'vegetables']->['bread'],support=0.169,confidence=0.880,lift=1.222
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.153,confidence=0.874,lift=1.215
+2017-11-30 13:42:07: ['fruit', 'jams-spreads']->['bread'],support=0.164,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['margarine', 'milk-cream', 'vegetables']->['bread'],support=0.207,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['cheese', 'frozen', 'milk-cream']->['bread'],support=0.160,confidence=0.855,lift=1.188
+2017-11-30 13:42:07: ['canned', 'milk-cream', 'vegetables']->['bread'],support=0.233,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['baking', 'biscuits', 'fruit', 'vegetables']->['bread'],support=0.194,confidence=0.878,lift=1.219
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.161,confidence=0.856,lift=1.190
+2017-11-30 13:42:07: ['biscuits', 'canned', 'milk-cream', 'vegetables']->['bread'],support=0.165,confidence=0.902,lift=1.253
+2017-11-30 13:42:07: ['canned', 'frozen', 'milk-cream', 'vegetables']->['bread'],support=0.172,confidence=0.879,lift=1.222
+2017-11-30 13:42:07: ['baking', 'canned', 'fruit', 'milk-cream']->['bread'],support=0.175,confidence=0.882,lift=1.225
+2017-11-30 13:42:07: ['biscuits', 'margarine', 'milk-cream']->['bread'],support=0.195,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['canned', 'fruit', 'party', 'vegetables']->['bread'],support=0.152,confidence=0.889,lift=1.235
+2017-11-30 13:42:07: ['baking', 'fruit', 'juice-sat-cord-ms', 'vegetables']->['bread'],support=0.166,confidence=0.862,lift=1.197
+2017-11-30 13:42:07: ['biscuits', 'pet', 'vegetables']->['bread'],support=0.179,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['biscuits', 'confectionary', 'fruit']->['bread'],support=0.151,confidence=0.853,lift=1.186
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'tissues-paper', 'vegetables']->['bread'],support=0.168,confidence=0.863,lift=1.200
+2017-11-30 13:42:07: ['fruit', 'margarine', 'sauces-gravy-pkle']->['bread'],support=0.160,confidence=0.864,lift=1.200
+2017-11-30 13:42:07: ['biscuits', 'cheese', 'milk-cream']->['bread'],support=0.162,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['milk-cream', 'party', 'pet']->['bread'],support=0.154,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['baking', 'biscuits', 'fruit', 'milk-cream']->['bread'],support=0.177,confidence=0.879,lift=1.221
+2017-11-30 13:42:07: ['margarine', 'milk-cream', 'pet']->['bread'],support=0.154,confidence=0.870,lift=1.208
+2017-11-30 13:42:07: ['canned', 'margarine', 'milk-cream']->['bread'],support=0.193,confidence=0.868,lift=1.207
+2017-11-30 13:42:07: ['baking', 'frozen', 'small']->['bread'],support=0.164,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['biscuits', 'pet', 'tissues-paper']->['bread'],support=0.155,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'milk-cream', 'party']->['bread'],support=0.156,confidence=0.878,lift=1.220
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'juice-sat-cord-ms', 'party']->['bread'],support=0.150,confidence=0.880,lift=1.222
+2017-11-30 13:42:07: ['canned', 'juice-sat-cord-ms', 'tissues-paper']->['bread'],support=0.172,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['baking', 'biscuits', 'frozen', 'fruit', 'vegetables']->['bread'],support=0.155,confidence=0.899,lift=1.250
+2017-11-30 13:42:07: ['margarine', 'milk-cream', 'sauces-gravy-pkle']->['bread'],support=0.164,confidence=0.852,lift=1.183
+2017-11-30 13:42:07: ['fruit', 'margarine', 'milk-cream', 'vegetables']->['bread'],support=0.168,confidence=0.878,lift=1.220
+2017-11-30 13:42:07: ['baking', 'frozen', 'milk-cream']->['bread'],support=0.235,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['canned', 'milk-cream', 'tissues-paper']->['bread'],support=0.190,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'tissues-paper', 'vegetables']->['bread'],support=0.153,confidence=0.889,lift=1.236
+2017-11-30 13:42:07: ['fruit', 'pet', 'tissues-paper']->['bread'],support=0.163,confidence=0.863,lift=1.199
+2017-11-30 13:42:07: ['margarine', 'milk-cream', 'tissues-paper']->['bread'],support=0.172,confidence=0.861,lift=1.196
+2017-11-30 13:42:07: ['dairy', 'frozen', 'vegetables']->['bread'],support=0.150,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['baking', 'frozen', 'fruit', 'party']->['bread'],support=0.152,confidence=0.887,lift=1.232
+2017-11-30 13:42:07: ['fruit', 'juice-sat-cord-ms', 'tissues-paper']->['bread'],support=0.178,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['breakfast', 'canned', 'milk-cream']->['bread'],support=0.157,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'margarine', 'vegetables']->['bread'],support=0.166,confidence=0.895,lift=1.244
+2017-11-30 13:42:07: ['baking', 'fruit', 'milk-cream', 'tissues-paper']->['bread'],support=0.156,confidence=0.873,lift=1.213
+2017-11-30 13:42:07: ['biscuits', 'department137', 'frozen']->['bread'],support=0.158,confidence=0.862,lift=1.197
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen', 'tissues-paper']->['bread'],support=0.151,confidence=0.878,lift=1.220
+2017-11-30 13:42:07: ['baking', 'tissues-paper', 'vegetables']->['bread'],support=0.210,confidence=0.852,lift=1.183
+2017-11-30 13:42:07: ['frozen', 'tissues-paper', 'vegetables']->['bread'],support=0.204,confidence=0.857,lift=1.190
+2017-11-30 13:42:07: ['frozen', 'small', 'vegetables']->['bread'],support=0.172,confidence=0.867,lift=1.205
+2017-11-30 13:42:07: ['canned', 'fruit', 'milk-cream', 'vegetables']->['bread'],support=0.191,confidence=0.872,lift=1.211
+2017-11-30 13:42:07: ['baking', 'frozen', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.151,confidence=0.854,lift=1.186
+2017-11-30 13:42:07: ['baking', 'canned', 'vegetables']->['bread'],support=0.237,confidence=0.850,lift=1.181
+2017-11-30 13:42:07: ['biscuits', 'canned', 'cheese']->['bread'],support=0.164,confidence=0.860,lift=1.194
+2017-11-30 13:42:07: ['milk-cream', 'pet', 'vegetables']->['bread'],support=0.190,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'margarine', 'vegetables']->['bread'],support=0.156,confidence=0.888,lift=1.234
+2017-11-30 13:42:07: ['baking', 'margarine', 'milk-cream']->['bread'],support=0.213,confidence=0.864,lift=1.201
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'milk-cream']->['bread'],support=0.244,confidence=0.864,lift=1.201
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'juice-sat-cord-ms', 'vegetables']->['bread'],support=0.168,confidence=0.881,lift=1.224
+2017-11-30 13:42:07: ['biscuits', 'canned', 'vegetables']->['bread'],support=0.227,confidence=0.872,lift=1.212
+2017-11-30 13:42:07: ['biscuits', 'margarine', 'vegetables']->['bread'],support=0.200,confidence=0.878,lift=1.219
+2017-11-30 13:42:07: ['frozen', 'milk-cream', 'pet']->['bread'],support=0.179,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['biscuits', 'department137', 'fruit']->['bread'],support=0.160,confidence=0.876,lift=1.217
+2017-11-30 13:42:07: ['fruit', 'margarine', 'vegetables']->['bread'],support=0.227,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['beef', 'canned', 'vegetables']->['bread'],support=0.162,confidence=0.879,lift=1.221
+2017-11-30 13:42:07: ['canned', 'juice-sat-cord-ms', 'milk-cream']->['bread'],support=0.188,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['milk-cream', 'tissues-paper', 'vegetables']->['bread'],support=0.204,confidence=0.859,lift=1.194
+2017-11-30 13:42:07: ['biscuits', 'fruit', 'juice-sat-cord-ms', 'milk-cream']->['bread'],support=0.152,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['breakfast', 'canned', 'fruit']->['bread'],support=0.167,confidence=0.865,lift=1.201
+2017-11-30 13:42:07: ['canned', 'fruit', 'tissues-paper']->['bread'],support=0.198,confidence=0.868,lift=1.207
+2017-11-30 13:42:07: ['biscuits', 'milk-cream', 'small']->['bread'],support=0.154,confidence=0.868,lift=1.205
+2017-11-30 13:42:07: ['pet', 'tissues-paper', 'vegetables']->['bread'],support=0.165,confidence=0.856,lift=1.189
+2017-11-30 13:42:07: ['canned', 'milk-cream', 'party']->['bread'],support=0.176,confidence=0.868,lift=1.206
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'party']->['bread'],support=0.209,confidence=0.862,lift=1.197
+2017-11-30 13:42:07: ['canned', 'frozen', 'fruit', 'tissues-paper']->['bread'],support=0.151,confidence=0.892,lift=1.240
+2017-11-30 13:42:07: ['baking', 'fruit', 'milk-cream', 'vegetables']->['bread'],support=0.203,confidence=0.856,lift=1.189
+2017-11-30 13:42:07: ['beef', 'biscuits', 'frozen']->['bread'],support=0.155,confidence=0.873,lift=1.212
+2017-11-30 13:42:07: ['biscuits', 'frozen', 'juice-sat-cord-ms', 'vegetables']->['bread'],support=0.159,confidence=0.876,lift=1.217
+2017-11-30 13:42:07: ['baking', 'frozen', 'fruit', 'milk-cream']->['bread'],support=0.179,confidence=0.882,lift=1.226
+2017-11-30 13:42:07: ['baking', 'pet', 'vegetables']->['bread'],support=0.188,confidence=0.852,lift=1.184
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'small']->['bread'],support=0.164,confidence=0.867,lift=1.204
+2017-11-30 13:42:07: ['cheese', 'frozen', 'fruit']->['bread'],support=0.170,confidence=0.883,lift=1.227
+2017-11-30 13:42:07: ['frozen', 'fruit', 'milk-cream']->['bread'],support=0.247,confidence=0.861,lift=1.197
+2017-11-30 13:42:07: ['canned', 'milk-cream', 'pet']->['bread'],support=0.169,confidence=0.868,lift=1.206
+2017-11-30 13:42:07: ['frozen', 'fruit', 'margarine']->['bread'],support=0.198,confidence=0.862,lift=1.198
+2017-11-30 13:42:07: ['canned', 'pet', 'vegetables']->['bread'],support=0.178,confidence=0.872,lift=1.211
+2017-11-30 13:42:07: ['baking', 'biscuits', 'fruit']->['bread'],support=0.237,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['baking', 'fruit', 'tissues-paper', 'vegetables']->['bread'],support=0.171,confidence=0.875,lift=1.216
+2017-11-30 13:42:07: ['baking', 'frozen', 'milk-cream', 'tissues-paper']->['bread'],support=0.151,confidence=0.882,lift=1.225
+2017-11-30 13:42:07: ['beef', 'fruit', 'vegetables']->['bread'],support=0.183,confidence=0.858,lift=1.193
+2017-11-30 13:42:07: ['fruit', 'laundry', 'vegetables']->['bread'],support=0.156,confidence=0.857,lift=1.191
+2017-11-30 13:42:07: ['breakfast', 'milk-cream', 'vegetables']->['bread'],support=0.167,confidence=0.853,lift=1.185
+2017-11-30 13:42:07: ['fruit', 'milk-cream', 'party', 'vegetables']->['bread'],support=0.162,confidence=0.865,lift=1.202
+2017-11-30 13:42:07: ['margarine', 'tissues-paper', 'vegetables']->['bread'],support=0.179,confidence=0.855,lift=1.188
+2017-11-30 13:42:07: ['frozen', 'fruit', 'party']->['bread'],support=0.208,confidence=0.860,lift=1.196
+2017-11-30 13:42:07: ['canned', 'sauces-gravy-pkle', 'vegetables']->['bread'],support=0.197,confidence=0.854,lift=1.186
+2017-11-30 13:42:07: ['biscuits', 'canned', 'frozen']->['bread'],support=0.232,confidence=0.856,lift=1.189
+2017-11-30 13:42:07: ['baking', 'canned', 'frozen', 'tissues-paper']->['bread'],support=0.153,confidence=0.864,lift=1.201
+2017-11-30 13:42:07: ['canned', 'frozen', 'milk-cream']->['bread'],support=0.221,confidence=0.858,lift=1.192
+2017-11-30 13:42:07: ['canned', 'frozen', 'fruit', 'vegetables']->['bread'],support=0.192,confidence=0.886,lift=1.230
+2017-11-30 13:42:07: ['baking', 'canned', 'fruit', 'margarine']->['bread'],support=0.156,confidence=0.889,lift=1.235
+2017-11-30 13:42:07: ['party', 'tissues-paper', 'vegetables']->['bread'],support=0.171,confidence=0.851,lift=1.183
+2017-11-30 13:42:07: ['baking', 'biscuits', 'canned', 'vegetables']->['bread'],support=0.172,confidence=0.879,lift=1.222
+2017-11-30 13:42:07: ['biscuits', 'cheese', 'vegetables']->['bread'],support=0.170,confidence=0.867,lift=1.204
+2017-11-30 13:42:07: Total time to compute: 15.702990 seconds
+--- SharcNET Job Epilogue ---
+              job id: 11008019
+         exit status: 0
+            cpu time: 63s / 8.0h (0 %)
+        elapsed time: 24s / 2.0h (0 %)
+      virtual memory: 460.6M / 4.0G (11 %)
+
+Job completed successfully
+WARNING: Job only used 0 % of its requested walltime.
+WARNING: Job only used 0 % of its requested cpu time.
+WARNING: Job only used 65 % of allocated cpu time.
+WARNING: Job only used 11% of its requested memory.
